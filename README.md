@@ -1,15 +1,17 @@
 # WebB Browser
 
-A lightweight, multi-tabbed, and portable web browser built using AutoHotkeyV2 for Windows 10/11
+A lightweight and portable web browser built using AutoHotkeyV2 for Windows 10/11
 
 ---
 
-## Highlights
+## Features
 
 - **Lightweight**: Uses Edge runtime for low RAM usage compared to full browsers.
 - **Isolated Sessions**: Create, backup, and isolate multiple user profiles and cookie stores in dedicated subfolders.
 - **Automated uBlock Origin**: Downloads, installs, and updates the uBlock Origin extension directly from GitHub releases.
 - **Privacy & Proxy Controls**: Configurable proxy routing with auth support, along with full cache and history management.
+- **Custom Browser UI**: Customizable UI with dedicated Settings Panel.
+- **Extensions Minimally Supported**: Currently working on other extensions other than the Adblock.
 
 ---
 ## Images
