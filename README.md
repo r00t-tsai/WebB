@@ -1,6 +1,6 @@
 # WebB Browser
 
-A lightweight, multi-tabbed web browser built using AutoHotkeyV2
+A lightweight, multi-tabbed, and portable web browser built using AutoHotkeyV2
 
 ![Windows](https://img.shields.io/badge/OS-Windows_10%2F11-blue)
 ![Language](https://img.shields.io/badge/Language-AutoHotkey_v2-brightgreen)
