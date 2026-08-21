@@ -1,6 +1,6 @@
 # WebB Browser
 
-A lightweight, portable, and highly customizable web browser for Windows 10/11, built with **AutoHotkey v2** and **Microsoft Edge WebView2**.
+A lightweight, portable, and highly customizable web browser environment for Windows 10/11, built with **AutoHotkey v2** and **Microsoft Edge WebView2**.
 
 ---
 
