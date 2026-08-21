@@ -34,6 +34,8 @@ A lightweight, portable, and highly customizable web browser environment for Win
 * Microsoft Edge WebView2 Runtime
 
 ---
+This script is a side project and a practice for creating GUIs using AutoHotkey.
+---
 
 ## License
 
