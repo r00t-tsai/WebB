@@ -1,24 +1,39 @@
 # WebB Browser
 
-A lightweight and portable web browser built using AutoHotkeyV2 for Windows 10/11
+A lightweight, portable, and highly customizable web browser for Windows 10/11, built with **AutoHotkey v2** and **Microsoft Edge WebView2**.
 
 ---
 
 ## Features
 
-- **Lightweight**: Uses Edge runtime for low RAM usage compared to full browsers.
-- **Isolated Sessions**: Create, backup, and isolate multiple user profiles and cookie stores in dedicated subfolders.
-- **Automated uBlock Origin**: Downloads, installs, and updates the uBlock Origin extension directly from GitHub releases.
-- **Privacy & Proxy Controls**: Configurable proxy routing with auth support, along with full cache and history management.
-- **Custom Browser UI**: Customizable UI with dedicated Settings Panel.
-- **Extensions Minimally Supported**: Currently working on other extensions other than the Adblock.
+* **Chromium-based browsing** through WebView2.
+* **Tabbed browsing** with custom browser UI.
+* **Custom themes** with built-in color palettes and theme-aware controls.
+* **Isolated sessions** with separate cookies, cache, and browser data.
+* **Favorites and history** management.
+* **Cookie and download managers**.
+* **Proxy and privacy controls**.
+* **uBlock Origin** installation and management.
+* **Customizable new-tab page** with RSS/HTML/CSS/JavaScript support.
+* **Extension support** with additional extensions currently in development.
 
 ---
-## Images
-<img width="1920" height="1028" alt="HEHE" src="https://github.com/user-attachments/assets/8c306a32-8b17-418c-97c2-4aafcb4c41d4" />
-<img width="1920" height="1028" alt="HEHE 2" src="https://github.com/user-attachments/assets/af5e52d0-da1b-4bd9-a9cd-0bbb7127118e" />
+
+## Screenshots
+
+<img width="1920" height="1028" alt="WebB Browser" src="https://github.com/user-attachments/assets/8c306a32-8b17-418c-97c2-4aafcb4c41d4" />
+
+<img width="1920" height="1028" alt="WebB Browser Settings" src="https://github.com/user-attachments/assets/af5e52d0-da1b-4bd9-a9cd-0bbb7127118e" />
 
 ---
+
+## Requirements
+
+* Windows 10/11
+* Microsoft Edge WebView2 Runtime
+
+---
+
 ## License
 
 Distributed under the [MIT License](LICENSE).
