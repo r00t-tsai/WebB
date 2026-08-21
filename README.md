@@ -7,14 +7,13 @@ A lightweight, portable, and highly customizable web browser for Windows 10/11, 
 ## Features
 
 * **Chromium-based browsing** through WebView2.
-* **Tabbed browsing** with custom browser UI.
-* **Custom themes** with built-in color palettes and theme-aware controls.
+* **Customizable new-tab page** with RSS/HTML/CSS/JavaScript support.
+* **Highly customizable UI and dashboard** with custom themes, color palettes, and a fully customizable new-tab dashboard.
 * **Isolated sessions** with separate cookies, cache, and browser data.
 * **Favorites and history** management.
 * **Cookie and download managers**.
 * **Proxy and privacy controls**.
 * **uBlock Origin** installation and management.
-* **Customizable new-tab page** with RSS/HTML/CSS/JavaScript support.
 * **Extension support** with additional extensions currently in development.
 
 ---
