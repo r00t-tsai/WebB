@@ -17,8 +17,14 @@ A lightweight, portable, and highly customizable web browser environment for Win
 * **Extension support** with additional extensions currently in development.
 
 ---
+### GUI Editor
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/3b94045c-c353-4f40-8b11-ce4525c23b35" />
 
-## Screenshots
+### Settings Panel
+
+<img width="1918" height="983" alt="image" src="https://github.com/user-attachments/assets/b07039c8-4602-4aec-a6dd-c244dec14757" />
+
+## Tab Designs
 
 <img width="1920" height="1028" alt="WebB Browser" src="https://github.com/user-attachments/assets/8c306a32-8b17-418c-97c2-4aafcb4c41d4" />
 <img width="1920" height="1021" alt="NEEDY" src="https://github.com/user-attachments/assets/754424ba-0890-4b99-bb40-01e46124f722" />
