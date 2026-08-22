@@ -40,7 +40,7 @@ A lightweight, portable, and highly customizable web browser environment for Win
 * Microsoft Edge WebView2 Runtime
 
 ## Security Considerations ##
-### This browser stores the session ID, cookies, history, and passwords in your local disk (Not in a Cloud server as it is a breach of privacy on my end). So it does not send any data over the internet but local intrusions/tampering of the files resulting in privacy leakage is not a bi-party problem. ###
+### This browser stores the session ID, cookies, history, and passwords in your local disk (Not in a Cloud server as it is a breach of privacy on my end). So it does not send any data (only IP addresses for geolocation/google suggests/weather, news, and other APIs)  over the internet but local intrusions/tampering of the files resulting in privacy leakage is not a bi-party problem. ###
 ---
 This script is a side project and a practice for creating GUIs using AutoHotkey. It is nowhere near production-grade so expect some bugs along the way if you would try it.
 ---
