@@ -58,7 +58,7 @@ A lightweight, portable, and highly customizable web browser environment for Win
 
 ---
 
-This script/exe is a side project and a practice for creating GUIs using AutoHotkey. It is nowhere near production-grade so expect some bugs along the way if you would try it.
+### This script/exe is a side project and a practice for creating GUIs using AutoHotkey. It is nowhere near production-grade so expect some bugs along the way if you would try it.
 
 ---
 
