@@ -42,7 +42,7 @@ A lightweight, portable, and highly customizable web browser environment for Win
 ## Security Considerations ##
 ### This browser stores the session ID, cookies, history, and passwords in your local disk (Not in a Cloud server as it is a breach of privacy on my end). Session data are stored locally on your device. WebB does make requests to third-party services for features such as search suggestions, geolocation, weather, news, and other dashboard APIs, but local intrusions/tampering of the files resulting in privacy leakage is not a bi-party problem. ###
 ---
-This script is a side project and a practice for creating GUIs using AutoHotkey. It is nowhere near production-grade so expect some bugs along the way if you would try it.
+This script/exe is a side project and a practice for creating GUIs using AutoHotkey. It is nowhere near production-grade so expect some bugs along the way if you would try it.
 ---
 
 
