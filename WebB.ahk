@@ -1,4 +1,5 @@
-﻿#Requires AutoHotkey v2.0
+; not updated
+#Requires AutoHotkey v2.0
 #NoTrayIcon
 #SingleInstance Off
 #Warn VarUnset, Off
